@@ -1,0 +1,10 @@
+- Redirects: Excel Sheet mit Mapping von alten (“legacy”) zu neuen URLs. 
+- Keywords recherchieren
+-- Keywords definieren (per Page) und in Keywordliste eintragen
+- Keywords in Fliesstext verwenden
+- Seitentitel und Meta Description verfassen
+- URL definieren
+-- evtl. Abgleich mit SEO für Revision
+- Interne Links aus Fliesstext zu relevanten Seiten
+- Pressemitteilung mit zentralen Keywords und Links
+- Bei going live legacy URLs für Redirects aktivieren.
